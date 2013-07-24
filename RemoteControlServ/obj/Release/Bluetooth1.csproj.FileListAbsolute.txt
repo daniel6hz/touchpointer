@@ -1,0 +1,20 @@
+C:\Users\DC\Documents\Visual Studio 2008\Projects\Bluetooth1\Bluetooth1\bin\Release\MyBluetooth.exe
+C:\Users\DC\Documents\Visual Studio 2008\Projects\Bluetooth1\Bluetooth1\bin\Release\MyBluetooth.pdb
+C:\Users\DC\Documents\Visual Studio 2008\Projects\Bluetooth1\Bluetooth1\bin\Release\InTheHand.Net.Personal.dll
+C:\Users\DC\Documents\Visual Studio 2008\Projects\Bluetooth1\Bluetooth1\obj\Release\ResolveAssemblyReference.cache
+C:\Users\DC\Documents\Visual Studio 2008\Projects\Bluetooth1\Bluetooth1\obj\Release\MyBluetooth.Form1.resources
+C:\Users\DC\Documents\Visual Studio 2008\Projects\Bluetooth1\Bluetooth1\obj\Release\MyBluetooth.Properties.Resources.resources
+C:\Users\DC\Documents\Visual Studio 2008\Projects\Bluetooth1\Bluetooth1\obj\Release\Bluetooth1.csproj.GenerateResource.Cache
+C:\Users\DC\Documents\Visual Studio 2008\Projects\Bluetooth1\Bluetooth1\obj\Release\MyBluetooth.exe
+C:\Users\DC\Documents\Visual Studio 2008\Projects\Bluetooth1\Bluetooth1\obj\Release\MyBluetooth.pdb
+E:\C#\bluetoothremote\Bluetooth1\Bluetooth1\bin\Release\InTheHand.Net.Personal.dll
+E:\C#\bluetoothremote\Bluetooth1\Bluetooth1\obj\Release\ResolveAssemblyReference.cache
+E:\C#\bluetoothremote\Bluetooth1\Bluetooth1\obj\Release\MyBluetooth.Form1.resources
+E:\C#\bluetoothremote\Bluetooth1\Bluetooth1\obj\Release\Bluetooth1.csproj.GenerateResource.Cache
+E:\C#\bluetoothremote\Bluetooth1\Bluetooth1\obj\Release\MyBluetooth.Tablet.resources
+E:\C#\bluetoothremote\Bluetooth1\Bluetooth1\bin\Release\RemoteControlServ.exe.config
+E:\C#\bluetoothremote\Bluetooth1\Bluetooth1\bin\Release\RemoteControlServ.exe
+E:\C#\bluetoothremote\Bluetooth1\Bluetooth1\bin\Release\RemoteControlServ.pdb
+E:\C#\bluetoothremote\Bluetooth1\Bluetooth1\obj\Release\RemoteControlServ.Properties.Resources.resources
+E:\C#\bluetoothremote\Bluetooth1\Bluetooth1\obj\Release\RemoteControlServ.exe
+E:\C#\bluetoothremote\Bluetooth1\Bluetooth1\obj\Release\RemoteControlServ.pdb

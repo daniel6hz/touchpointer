@@ -1,0 +1,42 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 10.00
+# Visual Studio 2008
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RemoteControlServ", "RemoteControlServ\RemoteControlServ.csproj", "{712AB55D-7CDA-4E90-B01A-8EF3107E35D2}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RemoteControlClient", "RemoteControlClient\RemoteControlClient.csproj", "{DEDAF031-7B36-446B-B30C-3FF309DA5BB0}"
+EndProject
+Project("{54435603-DBB4-11D2-8724-00A0C9A8B90C}") = "PCSetup", "PCSetup\PCSetup.vdproj", "{1E731562-A0E6-4576-A4AA-AE8C6BE90737}"
+EndProject
+Project("{B900F1C2-3D47-4FEC-85B3-04AAF18C3634}") = "MobileSetup", "MobileSetup\MobileSetup.vddproj", "{F598E615-631F-4AF1-9E9F-9F62E2EE18A6}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PictureButton", "PicBtn\PictureButton.csproj", "{723A0982-760E-4312-90FE-BCE3298AD9ED}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{712AB55D-7CDA-4E90-B01A-8EF3107E35D2}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{712AB55D-7CDA-4E90-B01A-8EF3107E35D2}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{712AB55D-7CDA-4E90-B01A-8EF3107E35D2}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{712AB55D-7CDA-4E90-B01A-8EF3107E35D2}.Release|Any CPU.Build.0 = Release|Any CPU
+		{DEDAF031-7B36-446B-B30C-3FF309DA5BB0}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DEDAF031-7B36-446B-B30C-3FF309DA5BB0}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DEDAF031-7B36-446B-B30C-3FF309DA5BB0}.Debug|Any CPU.Deploy.0 = Debug|Any CPU
+		{DEDAF031-7B36-446B-B30C-3FF309DA5BB0}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DEDAF031-7B36-446B-B30C-3FF309DA5BB0}.Release|Any CPU.Build.0 = Release|Any CPU
+		{DEDAF031-7B36-446B-B30C-3FF309DA5BB0}.Release|Any CPU.Deploy.0 = Release|Any CPU
+		{1E731562-A0E6-4576-A4AA-AE8C6BE90737}.Debug|Any CPU.ActiveCfg = Debug
+		{1E731562-A0E6-4576-A4AA-AE8C6BE90737}.Release|Any CPU.ActiveCfg = Release
+		{F598E615-631F-4AF1-9E9F-9F62E2EE18A6}.Debug|Any CPU.ActiveCfg = Debug
+		{F598E615-631F-4AF1-9E9F-9F62E2EE18A6}.Release|Any CPU.ActiveCfg = Release
+		{723A0982-760E-4312-90FE-BCE3298AD9ED}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{723A0982-760E-4312-90FE-BCE3298AD9ED}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{723A0982-760E-4312-90FE-BCE3298AD9ED}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{723A0982-760E-4312-90FE-BCE3298AD9ED}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

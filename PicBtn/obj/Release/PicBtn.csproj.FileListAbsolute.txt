@@ -1,0 +1,8 @@
+C:\Users\DC\Desktop\CD\Source\RemoteControl--Final\RemoteControl\PicBtn\bin\Release\PicBtn.dll
+C:\Users\DC\Desktop\CD\Source\RemoteControl--Final\RemoteControl\PicBtn\bin\Release\PicBtn.pdb
+C:\Users\DC\Desktop\CD\Source\RemoteControl--Final\RemoteControl\PicBtn\obj\Release\ResolveAssemblyReference.cache
+C:\Users\DC\Desktop\CD\Source\RemoteControl--Final\RemoteControl\PicBtn\obj\Release\PicBtn.Resource.resources
+C:\Users\DC\Desktop\CD\Source\RemoteControl--Final\RemoteControl\PicBtn\obj\Release\PicBtn.PicBtn.resources
+C:\Users\DC\Desktop\CD\Source\RemoteControl--Final\RemoteControl\PicBtn\obj\Release\PicBtn.csproj.GenerateResource.Cache
+C:\Users\DC\Desktop\CD\Source\RemoteControl--Final\RemoteControl\PicBtn\obj\Release\PicBtn.dll
+C:\Users\DC\Desktop\CD\Source\RemoteControl--Final\RemoteControl\PicBtn\obj\Release\PicBtn.pdb

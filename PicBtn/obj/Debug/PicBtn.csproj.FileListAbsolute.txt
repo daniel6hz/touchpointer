@@ -1,0 +1,8 @@
+E:\C#\MyControlTest\SmartDeviceProject1\PicBtn\obj\Debug\ResolveAssemblyReference.cache
+E:\C#\MyControlTest\SmartDeviceProject1\PicBtn\obj\Debug\PicBtn.Resource.resources
+E:\C#\MyControlTest\SmartDeviceProject1\PicBtn\obj\Debug\PicBtn.PicBtn.resources
+E:\C#\MyControlTest\SmartDeviceProject1\PicBtn\obj\Debug\PicBtn.csproj.GenerateResource.Cache
+E:\C#\MyControlTest\SmartDeviceProject1\PicBtn\bin\Debug\PicBtn.dll
+E:\C#\MyControlTest\SmartDeviceProject1\PicBtn\bin\Debug\PicBtn.pdb
+E:\C#\MyControlTest\SmartDeviceProject1\PicBtn\obj\Debug\PicBtn.dll
+E:\C#\MyControlTest\SmartDeviceProject1\PicBtn\obj\Debug\PicBtn.pdb

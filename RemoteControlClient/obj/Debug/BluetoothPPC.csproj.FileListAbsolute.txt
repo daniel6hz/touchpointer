@@ -1,0 +1,19 @@
+C:\Users\DC\Documents\Visual Studio 2008\Projects\BluetoothPPC\BluetoothPPC\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\DC\Documents\Visual Studio 2008\Projects\BluetoothPPC\BluetoothPPC\obj\Debug\BluetoothPPC.Form1.resources
+C:\Users\DC\Documents\Visual Studio 2008\Projects\BluetoothPPC\BluetoothPPC\obj\Debug\BluetoothPPC.Properties.Resources.resources
+C:\Users\DC\Documents\Visual Studio 2008\Projects\BluetoothPPC\BluetoothPPC\obj\Debug\BluetoothPPC.csproj.GenerateResource.Cache
+C:\Users\DC\Documents\Visual Studio 2008\Projects\BluetoothPPC\BluetoothPPC\bin\Debug\BluetoothPPC.exe
+C:\Users\DC\Documents\Visual Studio 2008\Projects\BluetoothPPC\BluetoothPPC\bin\Debug\BluetoothPPC.pdb
+C:\Users\DC\Documents\Visual Studio 2008\Projects\BluetoothPPC\BluetoothPPC\obj\Debug\BluetoothPPC.exe
+C:\Users\DC\Documents\Visual Studio 2008\Projects\BluetoothPPC\BluetoothPPC\obj\Debug\BluetoothPPC.pdb
+C:\Users\DC\Documents\Visual Studio 2008\Projects\BluetoothPPC\BluetoothPPC\bin\Debug\InTheHand.Net.Personal.dll
+E:\C#\bluetoothremote\BluetoothPPC\BluetoothPPC\obj\Debug\ResolveAssemblyReference.cache
+E:\C#\bluetoothremote\BluetoothPPC\BluetoothPPC\obj\Debug\BluetoothPPC.Form1.resources
+E:\C#\bluetoothremote\BluetoothPPC\BluetoothPPC\obj\Debug\BluetoothPPC.csproj.GenerateResource.Cache
+E:\C#\bluetoothremote\BluetoothPPC\BluetoothPPC\bin\Debug\InTheHand.Net.Personal.dll
+E:\C#\bluetoothremote\BluetoothPPC\BluetoothPPC\obj\Debug\BluetoothPPC.Tablet.resources
+E:\C#\bluetoothremote\BluetoothPPC\BluetoothPPC\bin\Debug\RemoteControlClient.exe
+E:\C#\bluetoothremote\BluetoothPPC\BluetoothPPC\bin\Debug\RemoteControlClient.pdb
+E:\C#\bluetoothremote\BluetoothPPC\BluetoothPPC\obj\Debug\RemoteControl.Properties.Resources.resources
+E:\C#\bluetoothremote\BluetoothPPC\BluetoothPPC\obj\Debug\RemoteControlClient.exe
+E:\C#\bluetoothremote\BluetoothPPC\BluetoothPPC\obj\Debug\RemoteControlClient.pdb

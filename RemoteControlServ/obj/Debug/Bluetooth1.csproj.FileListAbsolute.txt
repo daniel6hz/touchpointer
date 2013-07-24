@@ -1,0 +1,9 @@
+C:\Users\DC\Documents\Visual Studio 2008\Projects\Bluetooth1\Bluetooth1\bin\Debug\MyBluetooth.exe
+C:\Users\DC\Documents\Visual Studio 2008\Projects\Bluetooth1\Bluetooth1\bin\Debug\MyBluetooth.pdb
+C:\Users\DC\Documents\Visual Studio 2008\Projects\Bluetooth1\Bluetooth1\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\DC\Documents\Visual Studio 2008\Projects\Bluetooth1\Bluetooth1\obj\Debug\MyBluetooth.Form1.resources
+C:\Users\DC\Documents\Visual Studio 2008\Projects\Bluetooth1\Bluetooth1\obj\Debug\MyBluetooth.Properties.Resources.resources
+C:\Users\DC\Documents\Visual Studio 2008\Projects\Bluetooth1\Bluetooth1\obj\Debug\Bluetooth1.csproj.GenerateResource.Cache
+C:\Users\DC\Documents\Visual Studio 2008\Projects\Bluetooth1\Bluetooth1\obj\Debug\MyBluetooth.exe
+C:\Users\DC\Documents\Visual Studio 2008\Projects\Bluetooth1\Bluetooth1\obj\Debug\MyBluetooth.pdb
+C:\Users\DC\Documents\Visual Studio 2008\Projects\Bluetooth1\Bluetooth1\bin\Debug\InTheHand.Net.Personal.dll

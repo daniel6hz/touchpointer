@@ -1,0 +1,9 @@
+C:\Users\DC\Documents\Visual Studio 2008\Projects\BluetoothPPC\BluetoothPPC\bin\Release\BluetoothPPC.exe
+C:\Users\DC\Documents\Visual Studio 2008\Projects\BluetoothPPC\BluetoothPPC\bin\Release\BluetoothPPC.pdb
+C:\Users\DC\Documents\Visual Studio 2008\Projects\BluetoothPPC\BluetoothPPC\obj\Release\ResolveAssemblyReference.cache
+C:\Users\DC\Documents\Visual Studio 2008\Projects\BluetoothPPC\BluetoothPPC\obj\Release\BluetoothPPC.Form1.resources
+C:\Users\DC\Documents\Visual Studio 2008\Projects\BluetoothPPC\BluetoothPPC\obj\Release\BluetoothPPC.Properties.Resources.resources
+C:\Users\DC\Documents\Visual Studio 2008\Projects\BluetoothPPC\BluetoothPPC\obj\Release\BluetoothPPC.csproj.GenerateResource.Cache
+C:\Users\DC\Documents\Visual Studio 2008\Projects\BluetoothPPC\BluetoothPPC\obj\Release\BluetoothPPC.exe
+C:\Users\DC\Documents\Visual Studio 2008\Projects\BluetoothPPC\BluetoothPPC\obj\Release\BluetoothPPC.pdb
+C:\Users\DC\Documents\Visual Studio 2008\Projects\BluetoothPPC\BluetoothPPC\bin\Release\InTheHand.Net.Personal.dll
